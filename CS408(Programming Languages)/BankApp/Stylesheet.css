@@ -1,0 +1,33 @@
+body {
+	Background-color: #000000;
+	font-family: "arial";
+	margin: 0px;
+}
+.login {
+	Background-color: #AAAAAA;
+	padding: 10px 0px 1px 0px;
+}
+.CreateAccount{
+	width: 300px;
+	Background-color: #AAAAAA;
+	text-align: left;
+	padding: 10px 0px 1px 20px;
+}
+.panel1{
+	width: 500px;
+	Background-color: #AAAAAA;
+	text-align: left;
+	padding: 10px 20px 1px 20px;
+}
+.panel2{
+	width: 500px;
+	Background-color: #AAAAAA;
+	text-align: left;
+	padding: 10px 20px 1px 20px;
+}
+.panel3{
+	width: 500px;
+	Background-color: #AAAAAA;
+	text-align: left;
+	padding: 10px 20px 1px 20px;
+}
